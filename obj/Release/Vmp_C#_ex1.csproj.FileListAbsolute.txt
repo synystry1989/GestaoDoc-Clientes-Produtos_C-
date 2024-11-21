@@ -1,0 +1,13 @@
+C:\Users\synys\source\repos\Vmp_C#_ex1\bin\Release\Vmp_C#_ex1.exe.config
+C:\Users\synys\source\repos\Vmp_C#_ex1\bin\Release\Vmp_C#_ex1.exe
+C:\Users\synys\source\repos\Vmp_C#_ex1\bin\Release\Vmp_C#_ex1.pdb
+C:\Users\synys\source\repos\Vmp_C#_ex1\obj\Release\Vmp_C#_ex1.csproj.AssemblyReference.cache
+C:\Users\synys\source\repos\Vmp_C#_ex1\obj\Release\Vmp_C__ex1.FrmArtigos.resources
+C:\Users\synys\source\repos\Vmp_C#_ex1\obj\Release\Vmp_C__ex1.FrmClientes.resources
+C:\Users\synys\source\repos\Vmp_C#_ex1\obj\Release\Vmp_C__ex1.FrmDados.resources
+C:\Users\synys\source\repos\Vmp_C#_ex1\obj\Release\Vmp_C__ex1.FrmDocumentos.resources
+C:\Users\synys\source\repos\Vmp_C#_ex1\obj\Release\Vmp_C__ex1.Properties.Resources.resources
+C:\Users\synys\source\repos\Vmp_C#_ex1\obj\Release\Vmp_C#_ex1.csproj.GenerateResource.cache
+C:\Users\synys\source\repos\Vmp_C#_ex1\obj\Release\Vmp_C#_ex1.csproj.CoreCompileInputs.cache
+C:\Users\synys\source\repos\Vmp_C#_ex1\obj\Release\Vmp_C#_ex1.exe
+C:\Users\synys\source\repos\Vmp_C#_ex1\obj\Release\Vmp_C#_ex1.pdb
